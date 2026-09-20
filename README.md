@@ -1,1 +1,1 @@
-# odin-project
+# Odin Project
