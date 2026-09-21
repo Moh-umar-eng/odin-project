@@ -6,6 +6,7 @@
 - [Object Flags Properties](#object-flag-properties)
 - [Prodection Level usecase of Flags](#object-flags-in-production)
 
+**No Idea What's Object then visit :** [Object from Scratch](./basics.md)
 
 ## Overview of JS Objects
 
